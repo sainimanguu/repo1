@@ -3,7 +3,7 @@ My first repo.
 <br>
 Author-umang
 <br>
-#incude<iostrem>
+#include<iostream>
 using namespace std;
 int main(){
 cout<<"Umang"
